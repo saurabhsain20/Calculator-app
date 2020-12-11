@@ -1,0 +1,30 @@
+.btn-container-light {
+  height: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: normal;
+  font-size: 1.2rem;
+  color: #000;
+  background-color: #f0f0f0;
+  flex: 1;
+  outline: #707070 solid 1px;
+}
+
+.btn-container-dark {
+  height: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: normal;
+  font-size: 1.2rem;
+  color: #fff;
+  background-color: #666;
+  flex: 1;
+  outline: #707070 solid 1px;
+}
+
+.btn-operator {
+  background-color: #f7863b;
+  color: white;
+}

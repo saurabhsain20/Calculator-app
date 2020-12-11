@@ -1,0 +1,23 @@
+.inputField-light {
+  height: 4rem;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-weight: bold;
+  background-color: black;
+  color: #ffffff;
+  padding: 0.5rem;
+  outline: #707070 solid 1px;
+}
+
+.inputField-dark {
+  height: 4rem;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-weight: bold;
+  background-color: rgb(37, 33, 33);
+  color: #ffffff;
+  padding: 0.5rem;
+  outline: #707070 solid 1px;
+}
